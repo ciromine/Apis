@@ -6,7 +6,25 @@
 			"coordinates": {
 				"lat": -35.4134462,
 				"long": -106.2015151
-			}
+			},
+			"ingredients": [{
+				"name": "choclos con sus hojas"
+			},
+			{
+				"name": "cebolla"
+			},
+			{
+				"name": "queso fresco"
+			},
+			{
+				"name": "ají molido"
+			},
+			{
+				"name": "pimienta"
+			},
+			{
+				"name": "leche"
+			}]
 		},
 		{
 			"title": "Ropa vieja",
@@ -15,7 +33,43 @@
 			"coordinates": {
 				"lat": 21.505377,
 				"long": -81.8066929
-			}
+			},
+			"ingredients": [{
+				"name": "falda o cuete de res"
+			},
+			{
+				"name": "cebolla"
+			},
+			{
+				"name": "diente de ajo"
+			},
+			{
+				"name": "laurel"
+			},
+			{
+				"name": "sal"
+			},
+			{
+				"name": "papas medianas en cubos cocidas"
+			},
+			{
+				"name": "jitomates"
+			},
+			{
+				"name": "oregano"
+			},
+			{
+				"name": "comino"
+			},
+			{
+				"name": "cilantro"
+			},
+			{
+				"name": "pimienta"
+			},
+			{
+				"name": "sal"
+			}]
 		},
 		{
 			"title": "Ramen",
@@ -24,7 +78,43 @@
 			"coordinates": {
 				"lat": 33.1927622,
 				"long": 128.153942
-			}
+			},
+			"ingredients": [{
+				"name": "fideos chinos"
+			},
+			{
+				"name": "carne de cerdo"
+			},
+			{
+				"name": "cebolleta verde picada"
+			},
+			{
+				"name": "salsa de soja"
+			},
+			{
+				"name": "sake"
+			},
+			{
+				"name": "komatsuna (espinaca japonesa)"
+			},
+			{
+				"name": "agua"
+			},
+			{
+				"name": "diente de ajo"
+			},
+			{
+				"name": "postre de jengibre rallado"
+			},
+			{
+				"name": " cebolla"
+			},
+			{
+				"name": "zanahoria grande"
+			},
+			{
+				"name": "algas kombu"
+			}]
 		},
 		{
 			"title": "Curanto en olla",
@@ -33,7 +123,43 @@
 			"coordinates": {
 				"lat": -35.4134462,
 				"long": -106.2015151
-			}
+			},
+			"ingredients": [{
+				"name": "Repollo verde"
+			},
+			{
+				"name": "Papa"
+			},
+			{
+				"name": "Tomate"
+			},
+			{
+				"name": "Cebolla"
+			},
+			{
+				"name": "Pimiento morrón"
+			},
+			{
+				"name": "Almejas"
+			},
+			{
+				"name": "Cholgas"
+			},
+			{
+				"name": "Vino blanco"
+			},
+			{
+				"name": "Oréganoo"
+			},
+			{
+				"name": "Ají de color"
+			},
+			{
+				"name": "Pernil de chancho"
+			},
+			{
+				"name": "Longaniza"
+			}]
 		},
 		{
 			"title": "Hallacas",
@@ -42,7 +168,43 @@
 			"coordinates": {
 				"lat": 6.6477475,
 				"long": -71.1104489
-			}
+			},
+			"ingredients": [{
+				"name": "Carne"
+			},
+			{
+				"name": "Carne de cerdo"
+			},
+			{
+				"name": "Vino"
+			},
+			{
+				"name": "papelón"
+			},
+			{
+				"name": "alcaparras"
+			},
+			{
+				"name": "aceite de onoto"
+			},
+			{
+				"name": "Cholgas"
+			},
+			{
+				"name": "ajoporro"
+			},
+			{
+				"name": "pimentón rojo"
+			},
+			{
+				"name": "harina de maíz"
+			},
+			{
+				"name": "ajíes dulces"
+			},
+			{
+				"name": "Pasas"
+			}]
 		},
 		{
 			"title": "Lomo saltado",
@@ -51,7 +213,37 @@
 			"coordinates": {
 				"lat": -9.2047259,
 				"long": -79.5148172
-			}
+			},
+			"ingredients": [{
+				"name": "Carne de res (lomo)"
+			},
+			{
+				"name": "Cebolla blanca"
+			},
+			{
+				"name": "Tomate rojo"
+			},
+			{
+				"name": "Pasta de ajo"
+			},
+			{
+				"name": "Sal"
+			},
+			{
+				"name": "Pimienta"
+			},
+			{
+				"name": "Salsa de soja"
+			},
+			{
+				"name": "Cilantro"
+			},
+			{
+				"name": "Aceite de oliva"
+			},
+			{
+				"name": "Papas"
+			}]
 		},
 		{
 			"title": "Ceviche peruano",
@@ -60,7 +252,37 @@
 			"coordinates": {
 				"lat": -9.2047259,
 				"long": -79.5148172
-			}
+			},
+			"ingredients": [{
+				"name": "Pimienta"
+			},
+			{
+				"name": "Pescado a elección"
+			},
+			{
+				"name": "Cebolla cortada en julianas"
+			},
+			{
+				"name": "cilantro de hoja picada"
+			},
+			{
+				"name": "ají amarillo picado"
+			},
+			{
+				"name": "limones"
+			},
+			{
+				"name": "Sal"
+			},
+			{
+				"name": "caldo de pescado"
+			},
+			{
+				"name": "hojas de lechuga"
+			},
+			{
+				"name": "camote sancochado"
+			}]
 		},
 		{
 			"title": "Causa limeña",
@@ -69,7 +291,37 @@
 			"coordinates": {
 				"lat": -9.2047259,
 				"long": -79.5148172
-			}
+			},
+			"ingredients": [{
+				"name": "ajíes amarillos"
+			},
+			{
+				"name": "papas amarillas"
+			},
+			{
+				"name": "limoness"
+			},
+			{
+				"name": "aceite vegetal"
+			},
+			{
+				"name": "ají amarillo picado"
+			},
+			{
+				"name": "pollo"
+			},
+			{
+				"name": "mayonesa"
+			},
+			{
+				"name": "aguacate mediano picado en rebanadas"
+			},
+			{
+				"name": "zanahoria mediana"
+			},
+			{
+				"name": "pimentón verde"
+			}]
 		},
 		{
 			"title": "Pulpo al Olivo",
@@ -78,7 +330,37 @@
 			"coordinates": {
 				"lat": -9.2047259,
 				"long": -79.5148172
-			}
+			},
+			"ingredients": [{
+				"name": "Pulpo"
+			},
+			{
+				"name": "Aceitunas negras deshuesadas"
+			},
+			{
+				"name": "Mayonesa"
+			},
+			{
+				"name": "Sal"
+			},
+			{
+				"name": "Pimienta"
+			},
+			{
+				"name": "Salsa Tabasco"
+			},
+			{
+				"name": "Aceite de Oliva"
+			},
+			{
+				"name": "Pulpo sancochado y cortado en rodajas muy finas"
+			},
+			{
+				"name": "Aceite de Oliva"
+			},
+			{
+				"name": "Sal"
+			}]
 		},
 		{
 			"title": "Tortilla española",
@@ -87,7 +369,22 @@
 			"coordinates": {
 				"lat": 40.1301633,
 				"long": -3.713
-			}
+			},
+			"ingredients": [{
+				"name": "papas medianas cocinadas y peladas previamente"
+			},
+			{
+				"name": "huevos"
+			},
+			{
+				"name": "cebolla blanca"
+			},
+			{
+				"name": "Sal"
+			},
+			{
+				"name": "Pimienta"
+			}]
 		},
 		{
 			"title": "Callos a la madrileña",
@@ -96,7 +393,37 @@
 			"coordinates": {
 				"lat": 40.1301633,
 				"long": -3.713
-			}
+			},
+			"ingredients": [{
+				"name": "Callos"
+			},
+			{
+				"name": "Morros"
+			},
+			{
+				"name": "Ternera"
+			},
+			{
+				"name": "Aceite"
+			},
+			{
+				"name": "Chorizo"
+			},
+			{
+				"name": "Morcilla"
+			},
+			{
+				"name": "Guindilla"
+			},
+			{
+				"name": "Ajo"
+			},
+			{
+				"name": "Tomate"
+			},
+			{
+				"name": "Vinagre"
+			}]
 		},
 		{
 			"title": "Ratatouille",
@@ -105,7 +432,37 @@
 			"coordinates": {
 				"lat": 46.1390412,
 				"long": -2.4349004
-			}
+			},
+			"ingredients": [{
+				"name": "pimientos o pimentones rojos cortada en cuadros"
+			},
+			{
+				"name": "pimientos o pimentones verdes cortada en cuadros"
+			},
+			{
+				"name": "berenjena cortada en cuadros"
+			},
+			{
+				"name": "cebolla cortada en cuadros"
+			},
+			{
+				"name": "dientes de ajo finamente picado"
+			},
+			{
+				"name": "tomate cortada en cuadros."
+			},
+			{
+				"name": "Sal"
+			},
+			{
+				"name": "Pimienta"
+			},
+			{
+				"name": "Aceite de oliva"
+			},
+			{
+				"name": "Laurel seco."
+			}]
 		},
 		{
 			"title": "Tacos gobernador",
@@ -114,7 +471,34 @@
 			"coordinates": {
 				"lat": 23.3144013,
 				"long": -111.6390643
-			}
+			},
+			"ingredients": [{
+				"name": "camarón limpio"
+			},
+			{
+				"name": "cebolla"
+			},
+			{
+				"name": "dientes de ajo"
+			},
+			{
+				"name": "chile poblano"
+			},
+			{
+				"name": "mantequilla"
+			},
+			{
+				"name": "sal"
+			},
+			{
+				"name": "ueso manchego rallado"
+			},
+			{
+				"name": "tortillas de maíz"
+			},
+			{
+				"name": "frijoles refritos al gusto"
+			}]
 		}
 	]
 }
