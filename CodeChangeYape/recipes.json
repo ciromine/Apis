@@ -4,8 +4,9 @@
 			"description": "Este plato típico es típico de Argentina, Chile, Ecuador, Bolivia, Perú, etc. y está compuesto por ingredientes característicos de estas regiones. Sin embargo, en esta receta concretamente nos vamos a centrar en Argentina. Pues bien, la humita suele presentarse envuelta en las hojas del choclo, las chalas. Aunque también les proponemos otra opción, también puede reposar sobre una tostada con tomate caramelizado. Este plato está hecho a base de maíz y pueden encontrarse diferencias en el resto de sus ingredientes de acuerdo a la zona donde se prepara. Por ejemplo, la humita también puede contener queso o carne y condimentado con azúcar o más bien condimentos picantes.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/7/6/1/humita_75167_600.webp",
 			"coordinates": {
-				"lat": -35.4134462,
-				"long": -106.2015151
+				"lat": -33.440253,
+				"long": -70.637477,
+				"name": "Chile"
 			},
 			"ingredients": [{
 				"name": "choclos con sus hojas"
@@ -31,8 +32,9 @@
 			"description": "La elaboración de ropa vieja consiste en un guiso popular en Cuba, México, Guatemala y otros países de América Central y del sur. Se trata de un platillo con carne de res deshebrada y guisada con salsa de tomate y diferentes ingredientes, como por ejemplo: papa, zanahoria, aceitunas, chiles, entre otros. También debes saber que el nombre hace referencia a los hilos de la ropa vieja cubana o mexicana, también se conoce como hilacha de res. Asimismo, si quieres aprender a cocinar esta rica receta, sigue leyendo, seguro que una vez que la hagas y la pruebes, podrás decir que de verdad es un guiso sencillo y lleno de sabor.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/5/4/0/ropa_vieja_de_res_76045_600.webp",
 			"coordinates": {
-				"lat": 21.505377,
-				"long": -81.8066929
+				"lat": 23.102741,
+				"long": -82.366813,
+				"name": "Cuba"
 			},
 			"ingredients": [{
 				"name": "falda o cuete de res"
@@ -76,8 +78,9 @@
 			"description": "El ramen de cerdo es un plato popular de de la gastronomía japonesa y consiste en una sopa de fideos sazonada con salsa de soja y sake, y complementada con carne y/o verduras. En RecetasGratis queremos ayudarte con su elaboración y, por ello, en esta receta de ramen fácil te mostramos los pasos que debes seguir. Existen una gran variedad de versiones de la receta tradicional del ramen pero en esta ocasión, vamos a enseñarte a elaborar un ramen casero de fideos con caldo de pollo y carne de cerdo. ¿te animas a prepararlo? Hazte con todos los ingredientes y prepara esta deliciosa sopa ramen de cerdo. Si te es difícil encontrar algunos, seguro que podrás encontrarlos fácilmente en supermercados o tiendas especializadas de productos japoneses.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/2/7/6/ramen_34672_600.webp",
 			"coordinates": {
-				"lat": 33.1927622,
-				"long": 128.153942
+				"lat": 35.7456640,
+				"long": 139.6838686,
+				"name": "Japón"
 			},
 			"ingredients": [{
 				"name": "fideos chinos"
@@ -121,8 +124,9 @@
 			"description": "En esta receta no existen las medidas o ingredientes exactos. La idea general es formar capas de distintas carnes, pescados y verduras en la olla grande, separándoles mediante hojas de repollo. El Curanto Milcao es de papas crudas ralladas y el Curanto Chapalele de puré de papas cocidas.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/1/3/8/curanto_en_olla_20831_600.webp",
 			"coordinates": {
-				"lat": -35.4134462,
-				"long": -106.2015151
+				"lat": -33.440253,
+				"long": -70.637477,
+				"name": "Chile"
 			},
 			"ingredients": [{
 				"name": "Repollo verde"
@@ -166,8 +170,9 @@
 			"description": "Aprende cómo hacer hallacas venezolanas paso a paso con esta receta compartida en RecetasGratis. Apúntate ya mismo los ingredientes y sigue la preparación de esta comida típica de Venezuela para Navidad. Conseguirás unas deliciosas hallacas venezolanas para 100 personas. En el caso de que quieras más o menos cantidad tan solo tendrás que adecuar las proporciones de ingredientes haciendo una regla de 3. Dependiendo de cada región, las hallacas navideñas venezolanas se hacen de forma diferente. En algunos hogares, el guiso se cocina junto con la masa y, en otros, este se cocina antes. De la misma forma, los ingredientes de las hallacas cambian, pues podemos encontrarlas con cerdo o sin él, con alcaparras o sin ellas, con carne de gallina o con mariscos. Las posibilidades de las hallacas venezolanas son infinitas y, al final del día, cada familia adapta su receta a sus gustos. Sea como sea que las hagas, te garantizamos que te encantarán y encontrarás en ellas los mejores sabores y texturas de la Navidad.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/1/8/8/hallacas_venezolanas_65881_600.webp",
 			"coordinates": {
-				"lat": 6.6477475,
-				"long": -71.1104489
+				"lat": 10.4568157,
+				"long": -66.8905061,
+				"name": "Venezuela"
 			},
 			"ingredients": [{
 				"name": "Carne"
@@ -211,8 +216,9 @@
 			"description": "El lomo saltado es un plato típico de la gastronomía peruana pero se caracteriza por llevar los sabores orientales. Es una preparación fácil rápida y muy criolla por lo que es ideal para almuerzos caseros y en familia, aprende a preparar este lomo saltado como todo un experto con RecetasGratis.net.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/8/4/6/lomo_saltado_55648_600.webp",
 			"coordinates": {
-				"lat": -9.2047259,
-				"long": -79.5148172
+				"lat": -12.0608514,
+				"long": -77.0303595,
+				"name": "Perú"
 			},
 			"ingredients": [{
 				"name": "Carne de res (lomo)"
@@ -250,8 +256,9 @@
 			"description": "El ceviche es un plato típico de la gastronomía peruana y ha tenido tanto éxito que sus sabores se han extendido a otros países latinoamericanos. Hay muchas versiones de ceviche y es imposible decir que una sola es la correcta, pero en esta oportunidad compartiremos contigo una receta de ceviche peruano que intenta rescatar todo lo tradicional del delicioso ceviche original del Perú. Muchos disfrutan el ceviche o cebiche solo, pero también puedes acompañarlo con ricas guarniciones. En este caso, hemos utilizado camote, maíz tierno y unas hojas de lechuga para refrescar. Te invitamos a probarlo y a que descubras cómo hacer ceviche peruano de forma fácil y accesible para todos los niveles.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600.webp",
 			"coordinates": {
-				"lat": -9.2047259,
-				"long": -79.5148172
+				"lat": -12.0608514,
+				"long": -77.0303595,
+				"name": "Perú"
 			},
 			"ingredients": [{
 				"name": "Pimienta"
@@ -289,8 +296,9 @@
 			"description": "La causa limeña es uno de los platos emblemáticos de la gastronomía de Perú, su ingrediente más característico es la papa amarilla. De hecho, fuera de las fronteras de este país se le conoce como causa peruana. Propia de la comida del verano, consiste en una especie de pastel de puré de papa relleno de ensalada de pollo o atún con mayonesa, además de otros vegetales. Generalmente, el adorno consiste en aceitunas negras y huevos cocidos. Aunque laborioso de preparar, en RecetasGratis la causa limeña nos conquistó por dos razones: no solo es un plato delicioso, también es un plato hermoso por la llamativa combinación de colores. En una base amarilla, gracias a la papa y a la crema de ajíes, contrasta el verde de los aguacates o paltas, pimentones y judías, y el naranja de las zanahorias.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/8/6/2/causa_limena_31268_600.webp",
 			"coordinates": {
-				"lat": -9.2047259,
-				"long": -79.5148172
+				"lat": -12.0608514,
+				"long": -77.0303595,
+				"name": "Perú"
 			},
 			"ingredients": [{
 				"name": "ajíes amarillos"
@@ -328,8 +336,9 @@
 			"description": "El pulpo al olivo es un plato de la gastronomía peruana, y representativo de la cocina nikkei, elaborado a base de finas lonchas de pulpo cocido con una crema de aceituna negra. El plato es creación de la cocinera Rosita Yimura, quien en la década de 1980 lo elaboró intentando recrear una mayonesa a base de pulpo de un chef amigo suyo.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/8/2/8/pulpo_al_olivo_gourmet_14828_600.webp",
 			"coordinates": {
-				"lat": -9.2047259,
-				"long": -79.5148172
+				"lat": -12.0608514,
+				"long": -77.0303595,
+				"name": "Perú"
 			},
 			"ingredients": [{
 				"name": "Pulpo"
@@ -367,8 +376,9 @@
 			"description": "La tortilla de patatas o tortilla española es una tortilla u omelet (es decir, huevo batido, cuajado con aceite en la sartén) a la que se le agrega patatas troceadas. Se trata de uno de los platos más conocidos y emblemáticos de la cocina española, siendo un producto muy popular que se puede encontrar en casi cualquier bar o restaurante del país.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/9/8/0/tortilla_espanola_tradicional_53089_600.webp",
 			"coordinates": {
-				"lat": 40.1301633,
-				"long": -3.713
+				"lat": 40.4315981,
+				"long": -3.6946499,
+				"name": "España"
 			},
 			"ingredients": [{
 				"name": "papas medianas cocinadas y peladas previamente"
@@ -391,8 +401,9 @@
 			"description": "Los callos a la madrileña son una de las recetas más tradicionales de la comunidad autónoma de Madrid. Sin duda esta receta es más popular en invierno a pesar que la puedes encontrar en la capital de España durante todo el año.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/1/3/0/callos_a_la_madrilena_18031_600.webp",
 			"coordinates": {
-				"lat": 40.1301633,
-				"long": -3.713
+				"lat": 40.4315981,
+				"long": -3.6946499,
+				"name": "España"
 			},
 			"ingredients": [{
 				"name": "Callos"
@@ -430,8 +441,9 @@
 			"description": "No hay mejor guarnición que un colorido plato de verduras, pero mejor si las cocinamos y las sazonamos de forma original, como lo hacemos en esta receta de ratatouille o pisto. El ratatouille o pisto es un plato hecho a base de tomate, berenjena, pimiento y calabacín que se cocina a fuego lento con tomillo y ajo, una delicia. También conocido como pisto, esta preparación es ideal para aprovechar las verduras que tenemos que en casa y así presentar un rico y sano acompañamiento para nuestros mejores platos.",
 			"image": "https://cdn0.recetasgratis.net/es/posts/7/2/3/ratatouille_o_pisto_10327_600.webp",
 			"coordinates": {
-				"lat": 46.1390412,
-				"long": -2.4349004
+				"lat": 48.8586077,
+				"long": 2.3102978,
+				"name": "Francia"
 			},
 			"ingredients": [{
 				"name": "pimientos o pimentones rojos cortada en cuadros"
@@ -469,8 +481,9 @@
 			"description": "Uno de los mejores tacos con marisco que hay en México es el taco gobernador, conocido con este nombre gracias a un restaurante de Sinaloa que decidió preparar este platillo en una visita del gobernador del estado al restaurante, quiso sorprender al mismo con un taco inspirado en su comida favorita. El taco gobernador se prepara con camarón, queso y chile poblano. En algunos lugares también añaden pimientos, sin duda la combinación de estos ingredientes sobre una tortilla de harina o maíz es simplemente deliciosa. Sigue leyendo y aprende en RecetasGratis cómo preparar paso a paso tacos gobernador. ¡A cocinar!",
 			"image": "https://cdn0.recetasgratis.net/es/posts/0/1/2/tacos_gobernador_75210_600.webp",
 			"coordinates": {
-				"lat": 23.3144013,
-				"long": -111.6390643
+				"lat": 19.4094621,
+				"long": -99.1346947,
+				"name": "México"
 			},
 			"ingredients": [{
 				"name": "camarón limpio"
