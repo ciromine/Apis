@@ -1,0 +1,20 @@
+{
+	"playlists": [
+        {
+			"url": "https://www.youtube.com/watch?v=Dbjd962VfKg&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"time": 3600
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=cSSKUXBIQfs&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"time": 3600
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=g2Wrt5UIC44&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
+			"time": 3600
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=kLA1XeaNrxo&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
+			"time": 3600
+        }
+    ]
+}
