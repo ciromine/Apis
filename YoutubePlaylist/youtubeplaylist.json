@@ -2,19 +2,27 @@
 	"playlists": [
         {
 			"url": "https://www.youtube.com/watch?v=Dbjd962VfKg&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
-			"time": 3600
+			"time": 2246,
+            "name": "Electromovilidad en Acción",
+            "realtime": "36:26"
         },
         {
 			"url": "https://www.youtube.com/watch?v=cSSKUXBIQfs&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
-			"time": 3600
+			"time": 2478,
+            "name": "IA y Robótica: El Futuro Hoy",
+            "realtime": "40:18"
         },
         {
 			"url": "https://www.youtube.com/watch?v=g2Wrt5UIC44&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
-			"time": 3600
+			"time": 448,
+            "name": "Energías Renovables: El Poder del Futuro",
+            "realtime": "06:28"
         },
         {
 			"url": "https://www.youtube.com/watch?v=kLA1XeaNrxo&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
-			"time": 3600
+			"time": 2696,
+            "name": "Innovación y Tecnología",
+            "realtime": "43:56"
         }
     ]
 }
