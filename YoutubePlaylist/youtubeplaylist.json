@@ -35,6 +35,20 @@
 			"time": 686,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "11:26"
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=roL1rfSUE7Q&list=PLK1NrVTLtw9AG5tuKf6PrcAPP3JlX-tfV",
+			"time": 293,
+            "name": "Deadpool and Wolverine",
+            "realtime": "04:53",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=PT_UtkcP03M&list=PLK1NrVTLtw9A6MkSGRe8KJtuU-q7E9VIn",
+			"time": 300,
+            "name": "Retro Reseñas Spider-Man",
+            "realtime": "04:53",
+            "obligatory": false
         }
     ]
 }
