@@ -4,24 +4,26 @@
 			"url": "https://www.youtube.com/watch?v=Dbjd962VfKg&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 10,
             "name": "Electromovilidad en Acción",
-            "realtime": "36:26"
+            "realtime": "36:26",
+            "obligatory": true
         },
         {
 			"url": "https://www.youtube.com/watch?v=t5YbkaieNQE&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
 			"time": 10,
             "name": "IA y Robótica: El Futuro Hoy",
-            "realtime": "42:00"
+            "realtime": "42:00",
+            "obligatory": true
         },
         {
 			"url": "https://www.youtube.com/watch?v=roL1rfSUE7Q&list=PLK1NrVTLtw9AG5tuKf6PrcAPP3JlX-tfV",
-			"time": 293,
+			"time": 15,
             "name": "Deadpool and Wolverine",
             "realtime": "04:53",
             "obligatory": false
         },
         {
 			"url": "https://www.youtube.com/watch?v=PT_UtkcP03M&list=PLK1NrVTLtw9A6MkSGRe8KJtuU-q7E9VIn",
-			"time": 300,
+			"time": 15,
             "name": "Retro Reseñas Spider-Man",
             "realtime": "04:53",
             "obligatory": false
