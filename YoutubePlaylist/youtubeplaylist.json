@@ -44,7 +44,7 @@
         },
         {
 			"url": "https://www.youtube.com/watch?v=roL1rfSUE7Q&list=PLK1NrVTLtw9AG5tuKf6PrcAPP3JlX-tfV",
-			"time": 293,
+			"time": 200,
             "name": "Deadpool and Wolverine",
             "realtime": "04:53",
             "obligatory": false
@@ -53,6 +53,20 @@
 			"url": "https://www.youtube.com/watch?v=PT_UtkcP03M&list=PLK1NrVTLtw9A6MkSGRe8KJtuU-q7E9VIn",
 			"time": 300,
             "name": "Retro Reseñas Spider-Man",
+            "realtime": "04:53",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=64kBRUd_dOw&list=PLK1NrVTLtw9CtstvVisqoAhyh2yDz7nFF",
+			"time": 550,
+            "name": "Camino a Infinity War",
+            "realtime": "04:53",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=Cz2OBHKc7s0&list=PLF_x_9p1v1YQMpvhJqdft8RVMCKHCFjfK",
+			"time": 550,
+            "name": "Curiosidades sobre tus bandas favoritas",
             "realtime": "04:53",
             "obligatory": false
         }
