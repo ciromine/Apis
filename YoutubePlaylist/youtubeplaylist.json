@@ -1,17 +1,17 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=Erfe3erJ39I&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
-			"time": 2485,
+			"url": "https://www.youtube.com/watch?v=zTBvlk3AuqI&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"time": 2624,
             "name": "Electromovilidad en Acción",
-            "realtime": "40:25",
+            "realtime": "42:44",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=nnmaJzk9fic&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
-			"time": 3283,
+			"url": "https://www.youtube.com/watch?v=EyZmJ-JTiKc&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"time": 3719,
             "name": "IA y Robótica: El Futuro Hoy",
-            "realtime": "49:27",
+            "realtime": "56:43",
             "obligatory": true
         },
         {
@@ -36,10 +36,10 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=nnmaJzk9fic&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
-			"time": 1156,
+			"url": "https://www.youtube.com/watch?v=FtQSbtTBR8A&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"time": 1313,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
-            "realtime": "14:26",
+            "realtime": "17:13",
             "obligatory": true
         },
         {
