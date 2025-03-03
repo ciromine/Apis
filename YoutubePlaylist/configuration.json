@@ -1,8 +1,9 @@
 {
     "configuration": {
-      "name": "Hola",
-      "discarded_playlist": 0,
-      "discarded_probability": 0.3
+      "discarded_playlis_element": 1,
+      "discarded_probability": 0.3,
+      "extra_seconds_to_close_video": 600,
+      "extra_seconds_between_video": 30
     }
 }
   
