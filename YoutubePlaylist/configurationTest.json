@@ -1,9 +1,7 @@
 {
-  "configuration": {
-    "discarded_playlis_element": 1,
+  "discarded_playlis_element": 1,
     "extra_seconds_to_close_video": 15,
     "extra_seconds_between_video": 8,
     "launcher_discarded_probability": 0.5,
     "launcher_delay_seconds": 10
-  }
 }
