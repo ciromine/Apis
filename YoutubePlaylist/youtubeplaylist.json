@@ -1,17 +1,17 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=txzIA4h8bMM&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
-			"time": 3511,
+			"url": "https://www.youtube.com/watch?v=c1yxKhAP0EM&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"time": 3125,
             "name": "Electromovilidad en Acción",
-            "realtime": "55:31",
+            "realtime": "52:05",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=GN5TCcS0HV0&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
-			"time": 4534,
+			"url": "https://www.youtube.com/watch?v=MpdhMAmXpa8&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"time": 3534,
             "name": "IA y Robótica: El Futuro Hoy",
-            "realtime": "01:05:18",
+            "realtime": "58:54",
             "obligatory": true
         },
         {
@@ -43,7 +43,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=zTBvlk3AuqI&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=MpdhMAmXpa8&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 2289,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "38:09",
@@ -53,28 +53,49 @@
 			"url": "https://www.youtube.com/watch?v=roL1rfSUE7Q&list=PLK1NrVTLtw9AG5tuKf6PrcAPP3JlX-tfV",
 			"time": 200,
             "name": "Deadpool and Wolverine",
-            "realtime": "04:53",
+            "realtime": "03:20",
             "obligatory": false
         },
         {
 			"url": "https://www.youtube.com/watch?v=PT_UtkcP03M&list=PLK1NrVTLtw9A6MkSGRe8KJtuU-q7E9VIn",
 			"time": 300,
             "name": "Retro Reseñas Spider-Man",
-            "realtime": "04:53",
+            "realtime": "05:00",
             "obligatory": false
         },
         {
 			"url": "https://www.youtube.com/watch?v=64kBRUd_dOw&list=PLK1NrVTLtw9CtstvVisqoAhyh2yDz7nFF",
 			"time": 550,
             "name": "Camino a Infinity War",
-            "realtime": "04:53",
+            "realtime": "09:10",
             "obligatory": false
         },
         {
 			"url": "https://www.youtube.com/watch?v=Cz2OBHKc7s0&list=PLF_x_9p1v1YQMpvhJqdft8RVMCKHCFjfK",
 			"time": 550,
             "name": "Curiosidades sobre tus bandas favoritas",
-            "realtime": "04:53",
+            "realtime": "09:10",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=55xWZ7bKMcs&list=PLPZ1i5C50RxBvt2r-J9ekCc2YCPWdS2ef",
+			"time": 600,
+            "name": "Marvel - Te lo resumo así nomas",
+            "realtime": "10:00",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=W0_CXc_31q8&list=PLPZ1i5C50RxBTU2KZrS6dLL07fSpRCZo9",
+			"time": 550,
+            "name": "Disney - Te lo resumo así nomas",
+            "realtime": "09:10",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=HMlm7J-SwI0&list=PLPZ1i5C50RxBt0IWjjI3lKM-lH7vQF1p7",
+			"time": 600,
+            "name": "Versus - Te lo resumo así nomas",
+            "realtime": "10:00",
             "obligatory": false
         }
     ]
