@@ -1,14 +1,14 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=hBeB7G20omY&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=q0aDyyO4xrU&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 3125,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=f4BjUM8LBdM&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"url": "https://www.youtube.com/watch?v=N9U7QQ002LE&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
 			"time": 3534,
             "name": "IA y Robótica: El Futuro Hoy",
             "realtime": "58:54",
@@ -22,7 +22,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=5m6gP_eBmCs&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
+			"url": "https://www.youtube.com/watch?v=tNUP7Q8CvtM&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
 			"time": 3252,
             "name": "Innovación y Tecnología",
             "realtime": "54:12",
@@ -36,21 +36,21 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=yfyvQLgpP8o&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"url": "https://www.youtube.com/watch?v=q0aDyyO4xrU&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
 			"time": 2249,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=hBeB7G20omY&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=N9U7QQ002LE&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 2649,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=X_10xxBHHx0&list=PLMXR57qk1k7-KdjWAVIYeg-In_R-SkCGa",
+			"url": "https://www.youtube.com/watch?v=ahGOvITYKy8&list=PLMXR57qk1k7-KdjWAVIYeg-In_R-SkCGa",
 			"time": 995,
             "name": "El Futuro de los Videojuegos: Tendencias y Novedades",
             "realtime": "16:35",
