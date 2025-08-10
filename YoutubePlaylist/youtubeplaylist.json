@@ -1,7 +1,7 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=sgBaQ5CtslQ&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=utrZJmybdzs&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 3125,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
@@ -22,7 +22,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=Qx5pjVUbOLk&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
+			"url": "https://www.youtube.com/watch?v=cGFldSVshA8&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
 			"time": 3252,
             "name": "Innovación y Tecnología",
             "realtime": "54:12",
@@ -36,14 +36,14 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=VqvfvMf2IEY&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"url": "https://www.youtube.com/watch?v=HPC_rscvz2k&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
 			"time": 2249,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=Qx5pjVUbOLk&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=utrZJmybdzs&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 2649,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
