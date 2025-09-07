@@ -1,14 +1,14 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=ctiqEzP0xk8&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=kDTni8xe_wY&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 3125,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=g8QcoG4EkO8&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"url": "https://www.youtube.com/watch?v=8xW_ZKAAb2E&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
 			"time": 3534,
             "name": "IA y Robótica: El Futuro Hoy",
             "realtime": "58:54",
@@ -22,7 +22,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=eaGRllZHNG8&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
+			"url": "https://www.youtube.com/watch?v=8xW_ZKAAb2E&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
 			"time": 3252,
             "name": "Innovación y Tecnología",
             "realtime": "54:12",
@@ -43,7 +43,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=XJnYr4D1nds&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=8xW_ZKAAb2E&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 2649,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
