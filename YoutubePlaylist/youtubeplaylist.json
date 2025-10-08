@@ -1,14 +1,14 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=eNGtmnQYaBI&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=D7WMeI1S61w&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 3125,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=ziTMhwIBTC8&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"url": "https://www.youtube.com/watch?v=uuo8i4IHsJU&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
 			"time": 3534,
             "name": "IA y Robótica: El Futuro Hoy",
             "realtime": "58:54",
@@ -43,7 +43,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=4osdJlNtbtY&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=uuo8i4IHsJU&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 2649,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
