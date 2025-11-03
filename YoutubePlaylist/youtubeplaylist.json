@@ -8,7 +8,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=m6xEnnk4Xms&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"url": "https://www.youtube.com/watch?v=M-E7C2FHLus&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
 			"time": 3534,
             "name": "IA y Robótica: El Futuro Hoy",
             "realtime": "58:54",
@@ -22,7 +22,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=kKY3nTMWc5c&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
+			"url": "https://www.youtube.com/watch?v=M-E7C2FHLus&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
 			"time": 3252,
             "name": "Innovación y Tecnología",
             "realtime": "54:12",
@@ -36,7 +36,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=m6xEnnk4Xms&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"url": "https://www.youtube.com/watch?v=M-E7C2FHLus&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
 			"time": 2249,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
@@ -103,6 +103,13 @@
 			"time": 600,
             "name": "Versus - Te lo resumo así nomas",
             "realtime": "10:00",
+            "obligatory": false
+        },
+        {
+			"url": "https://www.youtube.com/watch?v=F_y6y2qGnPo&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
+			"time": 2081,
+            "name": "Cuentos para soñar",
+            "realtime": "35:41",
             "obligatory": false
         }
     ]
