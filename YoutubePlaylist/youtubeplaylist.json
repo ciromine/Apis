@@ -1,7 +1,7 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=rWruhSskOOE&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=40oeePMjHEk&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 3125,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
@@ -15,7 +15,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=rWruhSskOOE&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
+			"url": "https://www.youtube.com/watch?v=40oeePMjHEk&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
 			"time": 1071,
             "name": "Energías Renovables: El Poder del Futuro",
             "realtime": "17:51",
@@ -36,7 +36,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=LrgLzdAAh_I&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"url": "https://www.youtube.com/watch?v=40oeePMjHEk&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
 			"time": 2249,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
@@ -106,7 +106,7 @@
             "obligatory": false
         },
         {
-			"url": "https://www.youtube.com/watch?v=vg21TDNcKQI&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
+			"url": "https://www.youtube.com/watch?v=o6VkZFJVHNw&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
 			"time": 2081,
             "name": "Cuentos para soñar",
             "realtime": "35:41",
