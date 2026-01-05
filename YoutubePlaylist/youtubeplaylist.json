@@ -1,7 +1,7 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=u-6TeTn6j54&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=Q6gbMmiWwd8&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 3125,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
@@ -36,7 +36,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=_-bC-Jc3vn0&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"url": "https://www.youtube.com/watch?v=Q6gbMmiWwd8&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
 			"time": 2249,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
@@ -106,7 +106,7 @@
             "obligatory": false
         },
         {
-			"url": "https://www.youtube.com/watch?v=-L-fmvjlidE&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
+			"url": "https://www.youtube.com/watch?v=FGBzTSK8ORo&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
 			"time": 2081,
             "name": "Cuentos para soñar",
             "realtime": "35:41",
