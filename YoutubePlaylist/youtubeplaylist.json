@@ -1,15 +1,15 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=Q6gbMmiWwd8&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
-			"time": 3125,
+			"url": "https://www.youtube.com/watch?v=RJOl7QEj0pI&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"time": 1800,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
             "obligatory": true
         },
         {
 			"url": "https://www.youtube.com/watch?v=_-bC-Jc3vn0&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
-			"time": 3534,
+			"time": 1800,
             "name": "IA y Robótica: El Futuro Hoy",
             "realtime": "58:54",
             "obligatory": true
@@ -23,13 +23,13 @@
         },
         {
 			"url": "https://www.youtube.com/watch?v=dz18U6o6DFQ&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
-			"time": 3252,
+			"time": 1800,
             "name": "Innovación y Tecnología",
             "realtime": "54:12",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=rYU6x5l4zSc&list=PLMXR57qk1k7-i1rhetlBbu-PVQELjYotg",
+			"url": "https://www.youtube.com/watch?v=9v9GAotePfU&list=PLMXR57qk1k7-i1rhetlBbu-PVQELjYotg",
 			"time": 523,
             "name": "El Espacio Nos Espera: Exploración y Tecnología Espacial",
             "realtime": "08:43",
@@ -37,14 +37,14 @@
         },
         {
 			"url": "https://www.youtube.com/watch?v=Q6gbMmiWwd8&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
-			"time": 2249,
+			"time": 1800,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=u-6TeTn6j54&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
-			"time": 2649,
+			"url": "https://www.youtube.com/watch?v=RJOl7QEj0pI&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"time": 1800,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
             "obligatory": true
