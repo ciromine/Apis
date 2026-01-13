@@ -1,7 +1,7 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=RJOl7QEj0pI&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=xfLGmQgxnaU&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 1800,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
@@ -15,7 +15,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=JrXObVRLth0&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
+			"url": "https://www.youtube.com/watch?v=xfLGmQgxnaU&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
 			"time": 1071,
             "name": "Energías Renovables: El Poder del Futuro",
             "realtime": "17:51",
@@ -106,7 +106,7 @@
             "obligatory": false
         },
         {
-			"url": "https://www.youtube.com/watch?v=FGBzTSK8ORo&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
+			"url": "https://www.youtube.com/watch?v=sLEtr7ocHb8&list=PLxFG7oFEH7vBSZ9U87g1gV82eV8cp7XBm",
 			"time": 2081,
             "name": "Cuentos para soñar",
             "realtime": "35:41",
