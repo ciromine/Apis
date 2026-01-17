@@ -1,21 +1,21 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=xfLGmQgxnaU&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
+			"url": "https://www.youtube.com/watch?v=plSEsAlRIbA&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 1800,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=_-bC-Jc3vn0&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
+			"url": "https://www.youtube.com/watch?v=KlACPP3ZykU&list=PLMXR57qk1k7_NSj1Xr-yVBYzPkvhd-ZXY",
 			"time": 1800,
             "name": "IA y Robótica: El Futuro Hoy",
             "realtime": "58:54",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=xfLGmQgxnaU&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
+			"url": "https://www.youtube.com/watch?v=plSEsAlRIbA&list=PLMXR57qk1k7-ubXjRfdRwa3wx_RSJH_GN",
 			"time": 1071,
             "name": "Energías Renovables: El Poder del Futuro",
             "realtime": "17:51",
@@ -36,14 +36,14 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=Q6gbMmiWwd8&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
+			"url": "https://www.youtube.com/watch?v=KlACPP3ZykU&list=PLMXR57qk1k78H2v-JlkYKTaRxJctd0mus",
 			"time": 1800,
             "name": "Gigantes Tecnológicos: Quién Gana y Quién Pierde",
             "realtime": "37:29",
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=RJOl7QEj0pI&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=plSEsAlRIbA&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 1800,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
