@@ -1,7 +1,7 @@
 {
 	"playlists": [
         {
-			"url": "https://www.youtube.com/watch?v=pJXaPK4ATIE&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyoss",
+			"url": "https://www.youtube.com/watch?v=OSvnruzTuJU&list=PLMXR57qk1k7_BFDPxhfd6H1dDYzLrZnyo",
 			"time": 1800,
             "name": "Electromovilidad en Acción",
             "realtime": "52:05",
@@ -22,7 +22,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=4HpG5RUqevY&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
+			"url": "https://www.youtube.com/watch?v=OSvnruzTuJU&list=PLMXR57qk1k7-TRbD0ZvvdbwqBNcRboTcI",
 			"time": 1800,
             "name": "Innovación y Tecnología",
             "realtime": "54:12",
@@ -43,7 +43,7 @@
             "obligatory": true
         },
         {
-			"url": "https://www.youtube.com/watch?v=4HpG5RUqevY&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
+			"url": "https://www.youtube.com/watch?v=IAmYGEVJXI4&list=PLMXR57qk1k7-mwPmGsAlGV9Soa_z8Le9z",
 			"time": 1800,
             "name": "Latinoamérica Tech: Tendencias y Novedades",
             "realtime": "44:09",
